@@ -1,0 +1,47 @@
+{
+    "f0581e87-c968-4894-9bf6-30b51e2ab308": {
+        "command": "say_hello",
+        "response": "Hello, World!",
+        "id": "f0581e87-c968-4894-9bf6-30b51e2ab308"
+    },
+    "2bd0978f-102c-45cb-b94c-28a40ad41bb7": {
+        "command": "say_hello",
+        "response": "Hello, World!",
+        "id": "2bd0978f-102c-45cb-b94c-28a40ad41bb7"
+    },
+    "83e8feb3-3fce-4bb9-a55c-77a2dac6d734": {
+        "response": "Testando",
+        "command": "Teste2",
+        "id": "83e8feb3-3fce-4bb9-a55c-77a2dac6d734"
+    },
+    "d84f544d-607a-4a56-987b-6322ecb95ec4": {
+        "response": "Testando mais uma vez",
+        "command": "Teste123",
+        "id": "d84f544d-607a-4a56-987b-6322ecb95ec4"
+    },
+    "62328071-f263-4d84-81fb-bab7c5190c6a": {
+        "response": "Testando",
+        "command": "Teste",
+        "id": "62328071-f263-4d84-81fb-bab7c5190c6a"
+    },
+    "e94bf8ce-92fc-4b62-a47c-cc8e00c9a568": {
+        "response": "Testando aaaaaa",
+        "command": "Teste333",
+        "id": "e94bf8ce-92fc-4b62-a47c-cc8e00c9a568"
+    },
+    "933c97d1-9e1b-4ce2-8d06-366fe34a84da": {
+        "response": "",
+        "command": "",
+        "id": "933c97d1-9e1b-4ce2-8d06-366fe34a84da"
+    },
+    "f27b1e7f-7ca2-43e7-95b8-fd92686e66a9": {
+        "response": "Mateus gay",
+        "command": "Aaaaaaaa",
+        "id": "f27b1e7f-7ca2-43e7-95b8-fd92686e66a9"
+    },
+    "bc9fb50a-2390-4150-b7b8-57ec9832cc54": {
+        "response": "Eae",
+        "command": "Teste4444",
+        "id": "bc9fb50a-2390-4150-b7b8-57ec9832cc54"
+    }
+}
